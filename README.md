@@ -23,9 +23,9 @@ A fun and interactive game where you pop bubbles to score points before time run
 3. Open index.html in your browser.
 
 ## 🖼️ Preview
-<img src="ScreenShots/start_screen.png" alt="Game Start" width="400" />
+<img src="screenshots/start_screen.png" alt="Game Start" width="400" />
 
-<img src="ScreenShots/playing_game.png" alt="Play" width="400" />
+<img src="screenshots/playing_game.png" alt="Play" width="400" />
 
-<img src="ScreenShots/game_over.png" alt="Game Over" width="400" />
+<img src="screenshots/game_over.png" alt="Game Over" width="400" />
 
