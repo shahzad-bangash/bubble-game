@@ -4,10 +4,6 @@ An adrenaline-pumping, fast-paced reflex arcade web game built with Vanilla HTML
 
 ---
 
-### 🌐 [**Play the Game Online &rarr;**](https://shahzad-bangash.github.io/assets/projects/bubble_game/index.html)
-
----
-
 ## 📸 Interface & Gameplay
 
 <div align="center">
@@ -76,16 +72,17 @@ An adrenaline-pumping, fast-paced reflex arcade web game built with Vanilla HTML
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/shahzad-bangash/shahzad-bangash.github.io.git
+   git clone https://github.com/shahzad-bangash/bubble-game.git
    ```
-2. **Navigate to the Bubble Game directory:**
+2. **Navigate to the directory:**
    ```bash
-   cd shahzad-bangash.github.io/assets/projects/bubble_game
+   cd bubble-game
    ```
-3. **Open `index.html`** in any modern web browser or start a local server:
+3. **Open `index.html`** directly in any modern web browser or launch a local server:
    ```bash
    python3 -m http.server 8000
    ```
+   Navigate to `http://localhost:8000/index.html`.
 
 ---
 
